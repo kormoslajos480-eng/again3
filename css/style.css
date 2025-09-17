@@ -1,0 +1,36 @@
+body {
+  background: url("../images/letöltés.jpg");
+}
+.container {
+  padding: 2rem;
+}
+.box {
+  text-align: center;
+  padding: 2rem;
+}
+.box2 {
+  text-align: center;
+  padding: 2rem;
+}
+h1 {
+  color: white;
+}
+p {
+  padding: 1rem;
+  background-color: black;
+  color: white;
+}
+button {
+  border-radius: 5px;
+  padding: 0.5rem;
+  font-size: large;
+  text-align: center;
+  color: white;
+  background-color: palevioletred;
+}
+img {
+  width: 500px;
+  border-radius: 50px;
+  border-color:white;
+  border-style: solid;
+}
